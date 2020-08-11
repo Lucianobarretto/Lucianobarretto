@@ -9,11 +9,11 @@
 </p>
 <p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Em 2019, depois de mudar para o ABC paulista, iniciei uma reciclagem, ingressei no curso bacharelado Ciências da Computação pela <strong>Universidade Anhembi Morumbi</strong>, entre outros paralelos à graduação, a de se mencionar os cursos desenvolvidos pela <strong>Unicamp, UC Davis (California US), Senai, Rocketseat, Digital Innovation One, LinkedIn Learning</strong>...
 </p>
-<p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Mesmo tendo conhecimento em outras tecnologias, atualmente meu foco está nas linguagens JavaScript, NodeJS, ReactJS, React Native e Java (Android).👩‍💻
+<p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Mesmo tendo conhecimento em outras tecnologias, atualmente meu foco está nas linguagens JavaScript, NodeJS, ReactJS, React Native e Java (Android).  :octocat:
 </p>
 
 <p align="center">
-
+  
   <a href="https://www.linkedin.com/in/lucianobalmeida/" >
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianobalmeida/">
   </a>
