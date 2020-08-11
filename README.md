@@ -1,6 +1,6 @@
 <img alt="Logo Luciano Barreto" src="https://github.com/Lucianobarretto/Lucianobarretto/blob/master/logo_git.png">
 
-# Luciano Barreto de Almeida
+#
 
 ### Hello World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
