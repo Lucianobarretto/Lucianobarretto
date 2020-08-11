@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.linkedin.com/in/lucianobalmeida/"><img align="center" src="logo_git.png" alt="Logomarca" width="1000"/></a>
+  <a href="https://www.linkedin.com/in/lucianobalmeida/"><img align="center" src="logo_git.png" alt="Logomarca" width="100"/></a>
 </p>
 
 #
@@ -20,7 +20,7 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lucianobarreto&hide=issues,prs" />
     </td>
     <td>
-        <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianobarreto&hide=html&layout=compact" />
+        <img width="340px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianobarreto&hide=html&layout=compact" />
     </td>
 </tr>   
 </table>
