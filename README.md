@@ -1,5 +1,5 @@
 
-# Luciano Barreto
+# Luciano Barreto de Almeida
 
 ### Hello World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -11,17 +11,6 @@
 </p>
 <p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Mesmo tendo conhecimento em outras tecnologias, atualmente meu foco está nas linguagens JavaScript, NodeJS, ReactJS, React Native e Java (Android).👩‍💻
 </p>
-
-<table>
-<tr>
-    <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lucianobarreto&hide=issues,prs" />
-    </td>
-    <td>
-        <img width="340px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianobarreto&hide=html&layout=compact" />
-    </td>
-</tr>   
-</table>
 
 <p align="center">
 
@@ -40,18 +29,3 @@
     <img alt="Made by Luciano Barreto" src="https://img.shields.io/badge/Made%20by-Luciano%20Barreto-blue">
   </a>
 </p>
-
-<!--
-**Lucianobarretto/Lucianobarretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
