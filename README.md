@@ -8,7 +8,7 @@
 </p>
 <p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Em 1999, após a conclusão do curso Técnico Desenvolvedor de Sistemas, tive contato com as linguagens de programação mais modernas da época, assim mergulhei na área da tecnologia que percorreu o contato direto até o ano de 2008.
 </p>
-<p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Em 2019, depois de mudar para o ABC paulista, iniciei uma reciclagem, ingressei no curso bacharelado Ciências da Computação pela <strong>Universidade Anhembi Morumbi</strong>, entre outros paralelos à graduação, a de se mencionar os cursos desenvolvidos pela <strong>Unicamp, UC Davis (California US), Mackenzie, Universidade Federal de São Carlos, Senai, Rocketseat, Digital Innovation One, LinkedIn Learning</strong>... e os certificados podem ser acessados pelo meu instagram de certificações, através do LinkedIn.
+<p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Em 2019, depois de mudar para o ABC paulista, iniciei uma reciclagem, migrando da programação estruturada para a programação orientada a objetos utilizando as metodologias ágeis; ingressei no curso bacharelado Ciências da Computação pela <strong>Universidade Anhembi Morumbi</strong>, entre outros paralelos à graduação, a de se mencionar os cursos desenvolvidos pela <strong>Unicamp, UC Davis (California US), Mackenzie, Universidade Federal de São Carlos, Senai, Rocketseat, Digital Innovation One, LinkedIn Learning</strong>... e os certificados podem ser acessados pelo meu instagram de certificações, através do LinkedIn.
 </p>
 <p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Mesmo tendo conhecimento em outras tecnologias, atualmente meu foco está no Front-end.  :octocat:
 </p>
