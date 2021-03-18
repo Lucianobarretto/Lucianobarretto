@@ -1,4 +1,4 @@
-<img alt="Logo Luciano Barreto" src="https://github.com/Lucianobarretto/Lucianobarretto/blob/master/logo_git.png">
+<img alt="Logo Luciano Barreto" src="https://github.com/Lucianobarretto/Lucianobarretto/blob/master/logo_git2.png">
 
 #
 
