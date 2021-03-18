@@ -11,7 +11,13 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Em 2019, depois de mudar para o ABC paulista, iniciei uma reciclagem, migrando da programação estruturada para a programação orientada a objetos utilizando as metodologias ágeis; ingressei no curso bacharelado Ciências da Computação pela <strong>Universidade Anhembi Morumbi</strong>, entre outros paralelos à graduação, a de se mencionar os cursos desenvolvidos pela <strong>Unicamp, UC Davis (California US), Mackenzie, Universidade Federal de São Carlos, Senai, Rocketseat, Digital Innovation One, LinkedIn Learning</strong>... e os certificados podem ser acessados pelo meu instagram de certificações, através do LinkedIn.
 </p>
 <p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Mesmo tendo conhecimento em outras tecnologias, atualmente meu foco está no Front-end.  :octocat:
-</p>
+</p></br>
+
+- :rocket: Habilidades: <strong>Web Design | HTML5 | CSS3 | JavaScript (ES6+).</strong>
+- :mortar_board: Aperfeiçoando: <strong>ReactJS | CSS3 (Sass/styled-components) | Node.js | NPM / Yarn | PostgreSQL | TypeScript.</strong>
+- :briefcase: Atualmente, aceitando propostas como Front-end Developer.
+
+</br>
 
 <p align="center">
   
