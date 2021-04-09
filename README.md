@@ -1,6 +1,6 @@
 #
 <p>
- <img align="center" src="./Gitgif3.gif" />
+ <img align="center" src="./Logogit.png" />
  <img align="center" src="./gitgif1.gif" />
 </p>
 
