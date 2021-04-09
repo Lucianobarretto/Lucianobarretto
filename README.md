@@ -1,6 +1,6 @@
 #
 <p>
- <img align="center" src="./g3.png" />
+ <kbd><img align="center" src="./gifhub.gif" alt="Logo - Luciano Barreto"/></kbd>
 </p>
 
 
@@ -16,6 +16,10 @@
 - :rocket: Habilidades: <strong>Web Design | HTML5 | CSS3 | JavaScript (ES6+).</strong>
 - :mortar_board: Aperfeiçoando: <strong>ReactJS | CSS3 (Sass/styled-components) | Node.js | NPM / Yarn | PostgreSQL | TypeScript.</strong>
 - :briefcase: Atualmente, aceitando propostas como Front-end Developer.
+
+<p align="center">
+  <kbd><img align="center" src="./logogit2.gif" alt="Gif animado das stacks" width="400"/></kbd>
+</p>
 
 </br>
 
