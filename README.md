@@ -1,6 +1,6 @@
 #
 <p>
- <kbd><img align="center" src="./gifhub_yellow.gif" alt="Logo - Luciano Barreto"/></kbd>
+ <kbd><img align="center" src="./gifhub.gif" alt="Logo - Luciano Barreto"/></kbd>
 </p>
 
 
