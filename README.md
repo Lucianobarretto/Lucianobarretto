@@ -1,7 +1,7 @@
 #
 <p>
- <img align="center" src="./gitgif4.gif" />
- <img align="center" src="./gitgif1.gif" />
+ <img align="center" src="./logogit1.gif" />
+ <img align="center" src="./logogit2.gif" />
 </p>
 
 
