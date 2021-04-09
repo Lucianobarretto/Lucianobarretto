@@ -1,7 +1,6 @@
 #
 
-<img align="right" width="200px" src="./logo.svg" />
-<img width="300px" src="./git.svg" />
+<img align="Center" src="./teste2.gif" />
 
 <p align="justify"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">Olá sou o <strong>Luciano Barreto</strong>, desenvolvedor Front-end, tenho 41 anos, sou casado e professo a fé cristã, iniciei em 1992 o contato com o mundo tecnológico, ano este que marcou o fim da "Era Spectrum", os MSX's, o sistema DOS e o início da internet à sua feição atual, logo o desejo de aprender cada vez mais me impulsionou a fazer meu primeiro curso de habilitação profissional, tendo o contato com os pré-históricos Intel 286, 386...
 </p>
