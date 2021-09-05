@@ -55,5 +55,5 @@
 </p></br>
 
 <p align="center">
-  <kbd><img align="center" src="https://github.com/Lucianobarretto/LucianoBarreto/blob/master/snake-grid.svg" alt="Snake animation" width="1200"/></kbd>
+  <kbd><img align="center" src="https://github.com/Lucianobarretto/LucianoBarreto/blob/master/snake-grid.sv" alt="Snake animation" width="1200"/></kbd>
 </p>
