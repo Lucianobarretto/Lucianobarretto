@@ -14,7 +14,7 @@
 </p></br>
 
 - :rocket: Habilidades: <strong>Web Design | HTML5 | CSS3 | JavaScript (ES6+).</strong>
-- :mortar_board: Aperfeiçoando: <strong>ReactJS | TypeScript | Next.js | CSS3 (Sass/styled-components) | Node.js | React Native | PostgreSQL.</strong>
+- :mortar_board: Aperfeiçoando: <strong>ReactJS | TypeScript | Next.js | CSS3 (Sass/styled-components) | Node.js | React Native | Java | PostgreSQL.</strong>
 - :briefcase: Atualmente, aceitando propostas como Front-end Developer...
 
 <br>
@@ -27,6 +27,7 @@
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
   <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 </p>
  
