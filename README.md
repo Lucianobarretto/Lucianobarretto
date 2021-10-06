@@ -13,8 +13,8 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;💬&nbsp;Mesmo tendo conhecimento em outras tecnologias, atualmente meu foco está no Front-end.  :octocat:
 </p></br>
 
-- :rocket: Habilidades: <strong>Web Design | HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+).</strong>
-- :mortar_board: Aperfeiçoando: <strong>Bootstrap | ReactJS | Next.js | TypeScript | Chakra UI | React Native | Node.js | Java | PostgreSQL.</strong>
+- :rocket: Habilidades: <strong>Web Design | HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | Scrum.</strong>
+- :mortar_board: Aperfeiçoando: <strong>Bootstrap | ReactJS | Next.js | TypeScript | Chakra UI | React Native | Node.js | Java | PostgreSQL | Git | C++.</strong>
 - :briefcase: Atualmente, aceitando propostas como Front-end Developer...
 
 <br>
@@ -29,6 +29,8 @@
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 </p>
  
 <p align="center">
