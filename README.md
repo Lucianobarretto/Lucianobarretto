@@ -14,7 +14,7 @@
 </p></br>
 
 - :rocket: Habilidades: <strong>Web Design | HTML5 | CSS3 (Sass/styled-components) | JavaScript (ES6+) | Scrum.</strong>
-- :mortar_board: Aperfeiçoando: <strong>Bootstrap | ReactJS | Next.js | TypeScript | Chakra UI | React Native | Node.js | Java | PostgreSQL | Git | C++.</strong>
+- :mortar_board: Aperfeiçoando: <strong>Bootstrap | ReactJS | Next.js | TypeScript | Chakra UI | React Native | Node.js | Java | PostgreSQL.</strong>
 - :briefcase: Atualmente, aceitando propostas como Front-end Developer...
 
 <br>
