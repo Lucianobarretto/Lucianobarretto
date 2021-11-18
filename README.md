@@ -38,8 +38,8 @@
 </p></br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucianobalmeida/">
-    <img alt="Made by Luciano Barreto" src="https://img.shields.io/badge/Made%20by-Luciano%20Barreto-blue">
+  <a href="https://cutt.ly/eRSdjKP">
+    <img alt="Made by Luciano Barreto" src="https://img.shields.io/badge/myCVgo.-Luciano%20Barreto-blue">
   </a>
 </p></br>
 
