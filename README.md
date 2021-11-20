@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://cutt.ly/eRSdjKP">
-    <img alt="Made Luciano Barreto" src="https://img.shields.io/badge/myCVgo.-Luciano%20Barreto-blue">
+    <img alt="Curriculum digital" src="https://img.shields.io/badge/myCVgo.-Luciano%20Barreto-blue">
   </a>
 </p></br>
 
